@@ -11,6 +11,7 @@ just type "bcontrol _percent_" or "bcontrol +_percent_" or "bcontrol -_percent_"
 for example- 
 
 bcontrol 50
+
 will make the screen brightness half the max brightness
 
 
